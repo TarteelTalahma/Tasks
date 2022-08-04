@@ -1,0 +1,24 @@
+{
+    "name": "gray wolf",
+    "weight": {
+        "count": "69",
+        "unit": "kilograms"
+    },
+    "lives in": "Eurasia",
+    "endangered": true,
+    "food type": [
+        "lizards",
+        "snakes",
+        "frogs",
+        "deer",
+        "elk",
+        "moose",
+        "livestock",
+        "carrion",
+        "garbage"
+    ],
+    "eaten by": [
+        "grizzly"
+    ],
+    "how delicious": "0"
+}

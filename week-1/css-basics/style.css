@@ -1,0 +1,25 @@
+#container {
+    width: max-content;
+    background-color: gray;
+    box-shadow: 2px 2px 2px black;
+}
+
+.box {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+#first {
+    background-color: green;
+}
+
+#second {
+    background-color: orangered; 
+}
+
+.button {
+    background-color: green;
+    border-color: darkgreen;
+}

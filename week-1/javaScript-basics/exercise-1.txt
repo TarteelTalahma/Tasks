@@ -1,0 +1,28 @@
+Exercise 1
+Determine whether the following are truthy or falsey:
+1) (5 > 2) && false  
+false 
+
+2) !("knife" === "sword")
+true
+
+3) (1 < 2) || (-1 > -1) || !false
+true 
+
+4) ""
+false 
+
+5) (31 % 5) == "1"
+true 
+
+6) !!true
+true 
+
+7) "5th Avenue" != "5th Avenue"
+false 
+
+8) 52 !== "52"
+false
+
+9) (undefined || null)
+null

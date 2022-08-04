@@ -1,0 +1,14 @@
+Exercise 2
+Bit of a mind-twister: what are the values of a, b, and c in the end?
+let a = 3
+let c = 0
+let b = a
+b = a
+c = a
+b = c
+a = b
+_____________
+Answer is:
+a = 3 
+b = 3
+c = 3

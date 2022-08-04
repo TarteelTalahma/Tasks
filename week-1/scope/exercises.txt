@@ -1,0 +1,25 @@
+exersice-1
+There is an error, "distance is not defined"  
+since, distance is a local variable and it's scope a if statement. 
+
+exersice-2
+There is an error, "cowSound is not defined"
+since, cowSound in different scope and it is a local one.
+
+exersice-3
+There is no error, serveOrders is a global variable.
+
+exersice-4
+There is an error, "seed is not defined"
+since, seed is a local variable and it is in a different scope.
+
+exersice-5
+There is an error, "found is not defined"
+since, found is a local variable and it is in a different scope.
+
+exersice-6
+There is an error, "Assignment to constant variable"
+since, in the code isEnough is a constant and we can not change the value
+of any constant, the problem is trying to change the value of isEnough. 
+
+
